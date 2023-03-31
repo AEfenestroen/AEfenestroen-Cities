@@ -3,3 +3,6 @@ Welcome to the cities of Æfenestroen located in GitHub! Find the cities of Æfe
 
 ## Sister Cities
 Find the secong capital of Æfenestroen [here.](https://scratch.mit.edu/studios/33125587).
+
+## Known Cities
+ - Navarsia
